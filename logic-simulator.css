@@ -1,0 +1,221 @@
+.noOutline.svelte-chi4wh .svelte-chi4wh:focus {
+    outline: none
+}
+
+.fullscreen.svelte-chi4wh.svelte-chi4wh {
+    position: fixed;
+    background-color: white;
+    width: 100vw;
+    height: 100vH;
+    top: 0;
+    left: 0;
+    z-index: 999
+}
+
+.noselect.svelte-chi4wh.svelte-chi4wh {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.nodrag.svelte-chi4wh.svelte-chi4wh {
+    -webkit-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none
+}
+
+.dsimweb-iconButton {
+    margin: 0;
+    padding: 4px;
+    height: 40px;
+    width: 40px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #000000;
+    background-color: #f0f0f0
+}
+
+.dsimweb-iconButton:hover {
+    background-color: #d6d6d6
+}
+
+.dsimweb-button {
+    font-family: inherit;
+    font-size: inherit;
+    -webkit-padding: 0.4em 0;
+    padding: 0.4em;
+    margin: 0.3em 0 0.3em 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    color: #000000;
+    background-color: #f0f0f0
+}
+
+img.svelte-1bac38i {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+.selected.svelte-z6rthh {
+    background-color: #e6f7cb
+}
+
+.selected.svelte-tmr7ze {
+    background-color: #e6f7cb
+}
+
+img.svelte-tmr7ze {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+.selected.svelte-1t7zuwa {
+    background-color: #e6f7cb
+}
+
+img.svelte-1t7zuwa {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+.selected.svelte-z6rthh {
+    background-color: #e6f7cb
+}
+
+input[type="file"].svelte-17jx7ha {
+    display: none
+}
+
+.drop-area.svelte-17jx7ha {
+    border: 2px dashed #ccc;
+    border-radius: 20px;
+    width: 480px;
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 0.3em 0 0.3em 0;
+    text-align: center;
+    vertical-align: middle
+}
+
+.highlight.svelte-17jx7ha {
+    border: 2px dashed red
+}
+
+.dragPoint.svelte-q8h8dx {
+    stroke: red
+}
+
+.clickAreaConnection.svelte-q8h8dx {
+    fill: none;
+    stroke: black;
+    stroke-opacity: 0
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+polyline.svelte-emkhet {
+    pointer-events: none
+}
+
+circle.svelte-emkhet {
+    pointer-events: none
+}
+
+.selected.svelte-125gr7l {
+    fill: blue
+}
+
+text.svelte-125gr7l {
+    font-family: sans-serif
+}
+
+.no-select.svelte-91vx5z {
+    user-select: none
+}
+
+text.svelte-91vx5z {
+    font-family: sans-serif
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+text.svelte-uzxbbj {
+    font-family: sans-serif
+}
+
+text.svelte-uzxbbj {
+    font-family: sans-serif
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+.no-select.svelte-7xw61z {
+    user-select: none
+}
+
+text.svelte-7xw61z {
+    font-family: sans-serif
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+text.svelte-1h3j6go {
+    font-family: sans-serif
+}
+
+@keyframes svelte-qnawbq-gear {
+    from {
+        transform: rotate(0deg)
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+.gear.svelte-qnawbq {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: svelte-qnawbq-gear 5s linear infinite
+}
+
+.simValueTrue.svelte-cq9yft {
+    fill: red
+}
+
+.simValueFalse.svelte-cq9yft {
+    fill: #b5b5b5
+}
+
+.clickArea.svelte-13a8vxg {
+    fill: white;
+    fill-opacity: 0
+}
+
+.clickArea.svelte-13a8vxg:hover {
+    fill: #cfcfcf;
+    fill-opacity: 1
+}
+
+text.svelte-13a8vxg {
+    font-family: sans-serif
+}
