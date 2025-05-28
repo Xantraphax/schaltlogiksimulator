@@ -1,0 +1,22 @@
+<head>
+	<style>
+		* {
+			font: 15px Arial;
+		}
+	</style>
+	<meta charset="utf-8" />
+	<link href="./logic-simulator.css" rel="stylesheet">
+  
+	<script>    
+		const baseURL = "https://lms2.schulcampus-rlp.de";const basePath = "";const baseContentPath = "";const userIsLoggedIn = false;
+	</script>
+</head>
+
+<body>
+	<article :class="{fullscreenMaxWidth: fullscreen}" class="animate">
+		<div class="wrapper wrapper--article">
+            <div style="height: 600px;" class="logic-simulator" data-debug="false" data-datei="DeMuxEntwurf.json" data-konfiguration="fullWithoutModules" data-available-parts="AND,NOT,OR,SWITCH,LED,HA"></div>
+		</div>
+	</article>
+	<script src="./logic-simulator.js"></script>
+</body>
